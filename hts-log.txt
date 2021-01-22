@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 21 Jan 2021 16:38:43 at https://mourithemes.com/robin/robin/index-particles.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mourithemes.com/robin/robin/index-particles.html -O1 "C:\Users\Arun\Documents\coding\cyber\ebeb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:40:44	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://mourithemes.com/robin/robin/favicon/apple-icon-60x60.png (from https://mourithemes.com/robin/robin/index-particles.html)
+16:42:04	Warning: 	Retry after error -2 (Receive Time Out) at link https://mourithemes.com/robin/robin/images/port/2.jpg (from https://mourithemes.com/robin/robin/index-particles.html)
+16:42:04	Error: 	"Not Found" (404) at link https://mourithemes.com/robin/robin/css/owl.video.play.png (from https://mourithemes.com/robin/robin/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 24 seconds : 80 links scanned, 76 files written (4817619 bytes overall) [4767393 bytes received at 23369 bytes/sec], 76603 bytes transferred using HTTP compression in 3 files, ratio 13%
+(1 errors, 2 warnings, 0 messages)
